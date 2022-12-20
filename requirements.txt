@@ -1,6 +1,6 @@
-Python version==3.9.13
-IPython version==8.7.0
-
+#Python version==3.9.13
+#IPython version==8.7.0
+https://mybinder.org/v2/gh/MHanakam/Deep-Learning-MNIST/main
 numpy==1.21.5
 tensorflow==2.11.0
 pandas==1.4.4
